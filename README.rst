@@ -6,6 +6,8 @@ Results of the Python performance benchmark suite computed on the speed-python
 server: compressed `perf JSON
 <http://perf.readthedocs.io/en/latest/api.html#perf-json-format>`_ files.
 
+Files are distributed under the MIT license (see ``COPYING`` file).
+
 Website: https://github.com/haypo/performance_results
 
 Results
