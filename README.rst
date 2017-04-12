@@ -16,6 +16,9 @@ Results
 Directories
 -----------
 
+* ``2017-04-12-cpython``: CPython results computed since 2017-04-12. CPython
+  2.7 is now configured with ``--enable-unicode=ucs4``.
+
 * ``2017-03-31-cpython``: CPython results computed since 2017-03-31. CPython
   compiled with LTO and PGO. CPython now uses a Git repository.
 
@@ -49,6 +52,7 @@ run.
 History
 =======
 
+* 2017-04-12: CPython 2.7 is now configured with ``--enable-unicode=ucs4``.
 * 2017-03-31: old results removed, **new CPython results** to use Git commits
   instead of Mercurial.
 * 2017-03-17: perf 1.0 released
