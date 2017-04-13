@@ -17,7 +17,8 @@ Directories
 -----------
 
 * ``2017-04-12-cpython``: CPython results computed since 2017-04-12. CPython
-  2.7 is now configured with ``--enable-unicode=ucs4``.
+  2.7 is now configured with ``--enable-unicode=ucs4``, performance 0.5.5
+  (dev).
 
 * ``2017-03-31-cpython``: CPython results computed since 2017-03-31. CPython
   compiled with LTO and PGO. CPython now uses a Git repository.
