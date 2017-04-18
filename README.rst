@@ -16,6 +16,15 @@ Results
 Directories
 -----------
 
+* ``2017-04-13-pypy``: PyPy result, pypy2_571_warmups.json.gz file
+
+  - PyPy2 5.7.1 (revision 1aa2d8e03cdf): 64-bit, static binary
+  - perf 1.2 (dev), performance 0.5.5 (dev)
+  - performance hacked to run exactly 10 worker processes, each computes 250
+    values with 0 warmup
+  - Date: 2017-04-13 22:19 - 2017-04-14 09:01 (10h45)
+  - 67 benchmarks
+
 * ``2017-04-12-cpython``: CPython results computed since 2017-04-12. CPython
   2.7 is now configured with ``--enable-unicode=ucs4``, performance 0.5.5
   (dev).
