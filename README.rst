@@ -8,7 +8,7 @@ server: compressed `perf JSON
 
 Files are distributed under the MIT license (see ``COPYING`` file).
 
-Website: https://github.com/haypo/performance_results
+Website: https://github.com/vstinner/performance_results
 
 Results
 =======
@@ -123,7 +123,7 @@ performance results:
   <http://pyperformance.readthedocs.io/cpython_results_2017.html>`_. CPython
   results and analyze of most significant optimizations and slowdowns.
 * 2017-03-29: `speed.python.org results: March 2017
-  <https://haypo.github.io/speed-python-org-march-2017.html>`_, screenshots of
+  <https://vstinner.github.io/speed-python-org-march-2017.html>`_, screenshots of
   the most interesting benchmarks before removing CPython results using
   Mercurial commits.
 * 2017-01-02: `[Speed] speed.python.org: recent issues to run benchmarks
