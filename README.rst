@@ -1,5 +1,5 @@
 +++++++++++++++++++
-performance_results
+pyperformance_results
 +++++++++++++++++++
 
 Results of the Python performance benchmark suite computed on the speed-python
@@ -8,7 +8,7 @@ server: compressed `perf JSON
 
 Files are distributed under the MIT license (see ``COPYING`` file).
 
-Website: https://github.com/vstinner/performance_results
+Website: https://github.com/vstinner/pyperformance_results
 
 Results
 =======
